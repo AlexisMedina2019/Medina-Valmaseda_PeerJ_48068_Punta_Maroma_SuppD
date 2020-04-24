@@ -40,4 +40,8 @@ coefficient, the potential monotonic relationship between the species accounting
 abundances and ordination axes a PCO. AAGA: Agaricia agaricites, ATEN: A. tenuifolia, ACER:
 Acropora cervicornis, APAL: A. palmata, DSTO: Dichocoenia stokesii, MCAV: Montastraea cavernosa,
 MANN CX: M. annularis spp. complex, PAST: Porites astreoides, PSTR: Pseudodiploria strigosa, SSID:
-Siderastrea siderea.
+Siderastrea siderea. 
+Table 2 shows Coral species and number of colonies recorded in two geomorphic zones at Punta Maroma reef
+seascape before 1990s and in 2019. Coral species are classified according to their growth morphology
+(Darling et al., 2012). HG: Hard Ground zone, RF: Reef front zone of the fringing reef. Key spp.:
+‘reef-building’ species, Non-accretional Spp.: less influential species for accretion processes
