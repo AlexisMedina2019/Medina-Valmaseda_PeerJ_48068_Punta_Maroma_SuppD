@@ -45,3 +45,5 @@ Table 2 shows Coral species and number of colonies recorded in two geomorphic zo
 seascape before 1990s and in 2019. Coral species are classified according to their growth morphology
 (Darling et al., 2012). HG: Hard Ground zone, RF: Reef front zone of the fringing reef. Key spp.:
 ‘reef-building’ species, Non-accretional Spp.: less influential species for accretion processes
+
+Raw data are available in files "CSV ABUNDANCIA ACTUAL MATRIZ" for contemporary surveys, "CSV PUMA LCC SPACE TIME OLD" for historical surveys within the period 1985 and 1989, "CSV Morphometric_data" correspond to size data of coral colonies in 1985 and 2019 (data from from 1979 were not colected)."DenSpp-Mar" and "Historico.79.85_MarSp" datasets are derived from raw csv mentioned above to create graphics in R.
