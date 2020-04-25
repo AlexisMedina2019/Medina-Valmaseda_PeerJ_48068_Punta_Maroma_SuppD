@@ -1,19 +1,8 @@
 # Medina-Valmaseda_PeerJ_48068_Punta_Maroma_SuppData
-This is complementary, supplemental information for PeerJ submission 48068, including raw data, spplementary material and figures of the manuscript
-Figure 1 of manuscript represent the Ecological seascape and zonation of the fringing reef at Punta Maroma. (A) Location of Punta
-Maroma; (B) Reef zonation and geomorphology showing: slope breaks and geomorphological zones
-(following Blanchon et al., 2017) and ecological seascape zones (following Jordan-Dahlgren et al., 1981 ´
-and Estrada-Sald´ıvar et al., 2019); (C) View of the Reef-Front zone (or Fore reef) at 5 m; (D) View of the
-Rock-Terrace zone (or Fore reef) at 10 m; (E) View of the Mid-shelf break (or Fore reef) between 10 to
-15 m.
-Fidure 2 of manuscript is a Box Plots of A. Coral colony densities in 2019 and B. Live coral coverage before the 1990s,
-by accretion-functional groups, coral morphology and geomorphic zone in two reef zones at Punta
-Maroma reef. The bottom and top of the box are the first and third quartiles, respectively, the black line
-inside the box is the median. Whiskers are the lowest datum still within 1.5 times that of the lower
-quartile and the highest datum still within 1.5 times that of the upper quartile. The open circles at the end
-of the box-plot represent outliers (values 1.5 times less or greater than the interquartile range). RF: Reef
-front, or accretionary zone, HG: Coral hard ground or non-accretionary zone; key spp.: key reef building
-species; Non-accretional: non-accretional species.
+This is complementary, supplemental information for PeerJ submission 48068, including codec R used to create some of figures of the manuscript and necessary raw data to run the codec. A copy of the plots in pdf is supplied as well.
+Also are supplied all supplementary materials in pdf format
+
+
 Fidure 3 shows the Ecological Importance Value Index of coral species by geomorphic zones in Punta Maroma
 reef before 1990s (based on 1985 data) and in 2019. The index is based on the relative abundance,
 frequency and spatial contribution of each species with respect to the coral assemblage. RF: Reef front,
