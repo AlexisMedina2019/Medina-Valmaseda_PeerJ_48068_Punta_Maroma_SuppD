@@ -1,5 +1,5 @@
 # Medina-Valmaseda_PeerJ_48068_Punta_Maroma_SuppData
-This is complementary, supplemental information for PeerJ submission 48068, including codec R used to create some of figures of the manuscript and necessary raw data to run the codec. A copy of the plots in pdf is supplied as well.
+This is supplemental information for PeerJ submission 48068, including codec R used to create some of figures of the manuscript and necessary raw data to run the codec. A copy of the plots in pdf is supplied as well.
 
 Also are supplied all supplementary materials in pdf format. Those are reproduction of statistical routines conducted using Primer-e software as follows:
 Supplemental Data S1.(A) Coral colony maximum diameters densities by morphologies and accretion impact sorted by geomorphic zone at Punta Maroma reef in 1985 and 2019. Bran: Branching, Digi: Digitate or digitate, Foli: Foliaceus or platy, Mass: massive, submass_enc: submassive or encrusting forms; RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone.(B). Figure of Coral colony densities by morphologies and by geomorphic zone at Punta Maroma reef in 2019. Bran: Branching, Digi: Digitate or digitiformes, Foli: Foliaceus or platy, Mass: massive, submass_enc: submassive or encrusting forms; RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone. 
