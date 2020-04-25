@@ -1,12 +1,14 @@
 # Medina-Valmaseda_PeerJ_48068_Punta_Maroma_SuppData
 This is complementary, supplemental information for PeerJ submission 48068, including codec R used to create some of figures of the manuscript and necessary raw data to run the codec. A copy of the plots in pdf is supplied as well.
 
-Also are supplied all supplementary materials in pdf format
+Also are supplied all supplementary materials in pdf format. Those are reproduction of statistical routines conducted using Primer-e software as follows:
 Supplemental Data S1.(A) Coral colony maximum diameters densities by morphologies and accretion impact sorted by geomorphic zone at Punta Maroma reef in 1985 and 2019. Bran: Branching, Digi: Digitate or digitate, Foli: Foliaceus or platy, Mass: massive, submass_enc: submassive or encrusting forms; RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone.(B). Figure of Coral colony densities by morphologies and by geomorphic zone at Punta Maroma reef in 2019. Bran: Branching, Digi: Digitate or digitiformes, Foli: Foliaceus or platy, Mass: massive, submass_enc: submassive or encrusting forms; RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone. 
 
 Supplemental Data S2. Results of Similarity Percentages test within the sampling group by average abundance of discriminating species by their contribution to the similarity between groups, and the cumulative total (%) of contributions by zones: before the 1990s (RF before 1990s: A1, HG before 1990s: A2), sampling groups by zones for 2019 ( RF 2019: B1, HG 2019: B2) and a comparison ( Dissimilarities) between the two groups in every period (RF and HG before 1990s: C1, RF and HG 2019: C2). RF: Reef front or accretionary zone; HG: Coral hard ground or non-accretionary zone. Av.Abund: Average Abundance; Contrib%: spp. contribution in percentages; Cum.%: cumulative total (%) of contributions (70% cut-off); Av.Diss: average dissimilarities. SD: standard deviation of data    	        	     
 
-Supplemental Data S3. The results of Index Value Importance (IVI) for coral species (Spp.) calculated as described in Methods for 1985 and 2019 (Year) and Zone ( RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone ) and temporal classes (Tempo): RF and HG before the 1990s, represented by the 1985 year, and RF and HG in 2019.
-
 Supplemental Data S4. PERMDISP and PERMANOVA test results
 (A) Pair-wise comparisons of Distance-based test for homogeneity of multivariate dispersions (PERMDISP) on Jaccard Similarity matrix (Beta diversity), (B) Two-way permutational MANOVA (PERMANOVA) with two contrast analyses for year-factor and pair-wise comparisons,  (C) Pair-wise comparisons of Distance-based test for homogeneity of multivariate dispersions (PERMDISP) on Bray-Curtis Similarity matrix
+
+And the results of Index Value Importance calculated as described in the Methods of manuscript supplied as follows:
+Supplemental Data S3. The results of Index Value Importance (IVI) for coral species (Spp.) calculated as described in Methods for 1985 and 2019 (Year) and Zone ( RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone ) and temporal classes (Tempo): RF and HG before the 1990s, represented by the 1985 year, and RF and HG in 2019.
+
