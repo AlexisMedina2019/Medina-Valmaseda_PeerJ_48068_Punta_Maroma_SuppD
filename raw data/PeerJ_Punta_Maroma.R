@@ -1,6 +1,5 @@
 rm(list=ls(all=TRUE))
-getwd()
-setwd("C:/Users/HP/Documents/R")
+setwd("~/GitHub/Medina-Valmaseda_PeerJ_48068_Punta_Maroma_SuppData/raw data")
 #Load libraries
 library(dplyr)
 library(ggplot2)
@@ -19,7 +18,7 @@ ggplot(DenMorf3) +
   aes(x = D.max_cm, fill = Morph) +
   theme (axis.title = element_text(face="bold", colour="black", angle=90, size=rel(1)))+
   theme (axis.text.y = element_text(face="bold", colour="black", size=rel(2), hjust=0.5))+
-  labs(x= " max.diameter( Ø,cm)", y = "N")+
+  labs(x= " max.diameter( Ã˜,cm)", y = "N")+
   geom_histogram(bins = 30L, color="black")+
   scale_fill_manual(values = wes_palette(n=5, name="Cavalcanti1"))+
   theme_bw()+ 
