@@ -10,5 +10,5 @@ Supplemental Data S4. PERMDISP and PERMANOVA test results
 (A) Pair-wise comparisons of Distance-based test for homogeneity of multivariate dispersions (PERMDISP) on Jaccard Similarity matrix (Beta diversity), (B) Two-way permutational MANOVA (PERMANOVA) with two contrast analyses for year-factor and pair-wise comparisons,  (C) Pair-wise comparisons of Distance-based test for homogeneity of multivariate dispersions (PERMDISP) on Bray-Curtis Similarity matrix
 
 And the results of Index Value Importance calculated as described in the Methods of manuscript supplied as follows:
-Supplemental Data S3. The results of Index Value Importance (IVI) for coral species (Spp.) calculated as described in Methods for 1985 and 2019 (Year) and Zone ( RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone ) and temporal classes (Tempo): RF and HG before the 1990s, represented by the 1985 year, and RF and HG in 2019.
+Supplemental Data S3. The results of Index Value Importance (IVI) for coral species (Spp.) for 1985 and 2019 (Year) and Zone ( RF: Reef front or accretionary zone, HG: Coral hard ground or non-accretionary zone ) and temporal classes (Tempo): RF and HG before the 1990s, represented by the 1985 year, and RF and HG in 2019.
 
