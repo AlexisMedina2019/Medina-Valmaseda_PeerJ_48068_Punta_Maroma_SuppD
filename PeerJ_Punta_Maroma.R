@@ -1,5 +1,4 @@
 rm(list=ls(all=TRUE))
-getwd()
 setwd("~/GitHub/Medina-Valmaseda_PeerJ_48068_Punta_Maroma_SuppData/raw%20data")
 #Load libraries
 library(dplyr)
